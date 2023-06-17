@@ -4,7 +4,7 @@
 - https://youtu.be/5Dh8ftRibys
 - https://youtu.be/wJ3Sc6tH8VA
 #
-Версию для Windows скачать по ссылке:
+Версию для Windows можно скачать по ссылке:
 https://disk.yandex.ru/d/AmjdXS9qFn-VmA
 #
 ![alt tag](https://github.com/kkggaa45/hass_manager/blob/main/hass_manager.png)
