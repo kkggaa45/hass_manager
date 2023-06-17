@@ -1,4 +1,4 @@
-# hass_manager
+# Менеджер серверов hass_manager
 #
 Подробности установки в видео:
 - https://youtu.be/5Dh8ftRibys
