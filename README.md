@@ -1,4 +1,4 @@
-# Менеджер серверов hass_manager
+# Менеджер серверов Home Assistant
 #
 Подробности установки в видео:
 - https://youtu.be/5Dh8ftRibys
