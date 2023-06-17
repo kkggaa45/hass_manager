@@ -1,6 +1,8 @@
 # hass_manager
 #
 Подробности установки в видео:
+#
+Версию для Windows скачать по ссылке:
 https://disk.yandex.ru/d/AmjdXS9qFn-VmA
 #
 ![alt tag](https://github.com/kkggaa45/hass_manager/blob/main/hass_manager.png)
