@@ -3,7 +3,7 @@
 Подробности установки в видео:
 https://disk.yandex.ru/d/AmjdXS9qFn-VmA
 #
-![alt tag](https://github.com/kkggaa45/swiss_kap/blob/main/readme.png)
+![alt tag](https://github.com/kkggaa45/hass_manager/blob/main/hass_manager.png)
 #
 Если Вы хотите поддержать мой проект и помочь его дальнейшему развитию, буду очень благодарен за Вашу поддержку. 
 Вы можете перечислить любую сумму на мою банковскую карту:  
