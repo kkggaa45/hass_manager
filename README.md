@@ -13,6 +13,3 @@ https://disk.yandex.ru/d/AmjdXS9qFn-VmA
 Вы можете перечислить любую сумму на мою банковскую карту:  
 # 2202 2061 0530 9079
 Я гарантирую, что каждый Ваш рубль будет направлен на улучшение проекта. Благодарю Вас за Вашу поддержку и доверие!
-
-
-<a href="https://www.buymeacoffee.com/amoebelabs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
